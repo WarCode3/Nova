@@ -1,0 +1,22 @@
+{
+  "name": "Nova",
+  "version": "0.0.1",
+  "description": "Advanced scripting language with better syntax and useful goodies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WC3-Nova/Nova"
+  },
+  "author": "WC3-Nova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WC3-Nova//Nova/issues"
+  },
+  "homepage": "https://github.com/WC3-Nova/Nova#readme",
+  "dependencies": {
+
+  }
+}

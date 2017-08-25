@@ -1,0 +1,16 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="130" width="130" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect x="0" y="-0.19843" id="svg_19" height="128" width="128" stroke-width="22" stroke="#336699" fill="#ffffff"/>
+  <text font-style="italic" font-weight="normal" transform="matrix(2.16792, 0, 0, 2.16792, -60.5591, -40.7365)" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_15" y="56.636786" x="48.127621" stroke-width="2" stroke="#336699" fill="#336699">N</text>
+  <rect id="svg_20" height="0.25" width="0" y="82.112487" x="166.62493" stroke-width="16" stroke="#336699" fill="none"/>
+  <path id="svg_24" d="m103.840515,64.000267l-12.356842,-18.748379l8.138748,0l12.357941,18.748379l-12.357941,18.748077l-8.138748,0l12.356842,-18.748077z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#336699" fill="#336699"/>
+  <path transform="rotate(180, 26.6465, 63.8854)" id="svg_25" d="m28.756477,64.000916l-12.356834,-18.748379l8.138741,0l12.357933,18.748379l-12.357933,18.748085l-8.138741,0l12.356834,-18.748085z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#336699" fill="#336699"/>
+ </g>
+</svg>
